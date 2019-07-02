@@ -1,0 +1,19 @@
+body {
+  background-color: brown;
+}
+.row .kanan li{
+  float: left;
+  list-style: none;
+  width: 15% ;
+  line-height: 40px;
+
+}
+
+.row .kanan li a{
+  color: white;
+
+}
+.row .kanan li a:hover {
+  text-decoration: none;
+  color:#FFBEA8;
+}
